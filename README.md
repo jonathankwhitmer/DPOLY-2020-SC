@@ -10,5 +10,4 @@ Neural Networks Tutorial Google Colab Notebook: https://drive.google.com/file/d/
 Natural Language Processing Tutorial Google Colab Notebook: https://colab.research.google.com/drive/1ARR4dcxLmpX8waUB8-sPVN9_RluxRKhD
 
 
-
-
+Link to "Cloud Hero" Workshop: https://events.withgoogle.com/cloud-hero-aps/
