@@ -1,5 +1,6 @@
 # DPOLY-2020-SC
 Tutorials and data for the DPOLY 2020 Short Course: Machine Learning for Polymer Physicsts
+https://bitly/DPOLY2020SC
 
 Questions? - Ask us at: http://bit.ly/ASK_DPOLY
 
