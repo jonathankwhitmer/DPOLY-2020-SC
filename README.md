@@ -8,6 +8,8 @@ We want your feedback! Please let us know here: http://bit.ly/DPOLY_SC20_FB
 
 Neural Networks Tutorial Google Colab Notebook: https://drive.google.com/file/d/1pK6pO7DzycUAaAjMRuH2jXZ5TIq-eHtN/view?usp=sharing
 
+Gaussian Process Tutorial Colab Notebook: https://colab.research.google.com/drive/1d1m0UxJ2yi0h1BLInltbIjeqybAPTwbD
+
 Natural Language Processing Tutorial Google Colab Notebook: https://colab.research.google.com/drive/1ARR4dcxLmpX8waUB8-sPVN9_RluxRKhD
 
 Transfer Learning Example (Brett Savoie): https://colab.research.google.com/drive/1RmgOfbREDknWf61aYnzKxe4D-5eFfhJ1
