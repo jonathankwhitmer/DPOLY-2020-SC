@@ -1,4 +1,7 @@
 # DPOLY-2020-SC
+
+URGENT NOTE: Due to recent news on the APS March Meeting, we are standing by on Day 2 of the DPOLY workshop.
+
 Tutorials and data for the DPOLY 2020 Short Course: Machine Learning for Polymer Physicsts
 https://bit.ly/DPOLY2020SC
 
